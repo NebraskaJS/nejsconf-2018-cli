@@ -1,0 +1,17 @@
+{
+  "name": "nejsconf-2018",
+  "version": "0.0.1",
+  "description": "NEJS Conference Information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "author": "NEJS Conf <organizers@nejsconf.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0"
+  }
+}
