@@ -81,7 +81,7 @@ program.command('schedule').action(function () {
   console.log("");
   console.log(chalk.yellow("July 26"));
   console.log(chalk.yellow("-------"));
-  console.log("8:00 PM Informal pre-party, downtown LOCAL");
+  console.log(" 8:00 PM Informal pre-party, downtown LOCAL");
   console.log("");
   console.log(chalk.yellow("July 27"));
   console.log(chalk.yellow("-------"));
