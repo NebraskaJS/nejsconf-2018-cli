@@ -11,6 +11,7 @@ require('./speakers.js')(program);
 require('./schedule.js')(program);
 require('./venue.js')(program);
 require('./sponsors.js')(program);
+require('./staff.js')(program);
 
 program.command('help').action(function() { program.help(); });
 
