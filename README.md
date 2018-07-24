@@ -8,11 +8,14 @@ This is a CLI for getting information about the [NEJS Conference](https://2018.n
 
     Options:
 
-      -V, --version  output the version number
-      -h, --help     output usage information
+      -V, --version    output the version number
+      -h, --help       output usage information
 
     Commands:
 
-      help
-      venue
+      speakers [name]
       schedule
+      venue
+      sponsors
+      staff
+      help
