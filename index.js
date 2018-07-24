@@ -10,6 +10,7 @@ program.version('0.0.2');
 require('./speakers.js')(program);
 require('./schedule.js')(program);
 require('./venue.js')(program);
+require('./sponsors.js')(program);
 
 program.command('help').action(function() { program.help(); });
 
