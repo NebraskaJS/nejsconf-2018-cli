@@ -1,6 +1,6 @@
 {
   "name": "nejsconf-2018",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NEJS Conference Information",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
-    "commander": "^2.16.0"
+    "commander": "^2.16.0",
+    "fuzzy": "^0.1.3"
   }
 }
