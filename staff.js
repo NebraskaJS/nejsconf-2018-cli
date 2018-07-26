@@ -14,7 +14,7 @@ const organizers = [{
   "name": "Nick Nisi",
   "twitter": "nicknisi"
 }, {
-  "name": "Lindset Pfeifer",
+  "name": "Lindsey Pfeifer",
   "twitter": "l_pfeifer18"
 }, {
   "name": "Jerod Santo",
